@@ -1,0 +1,74 @@
+.header{
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    background-color: chartreuse;
+}
+.container{
+    border: 1px solid black;
+    height: 1300px;
+}
+.date input{
+    width: 220px;
+}
+
+.box{
+  
+    display: flex;
+    justify-content: space-between;
+}
+.left-box{
+    margin-top: 15px;
+    width: 40%;
+    border: 1px solid black;
+    
+    
+}
+.body{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.right-box{
+    width: 40%;
+    border: 1px solid black;
+}
+.right-box input{
+    width:250px
+}
+.first input{
+    margin-left: 10px;
+}
+.title{
+    font-size: 18px;
+    font-weight: bold;
+    border: black;
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+
+}
+
+.remark{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+}
+.remark input{
+ width: 500px;
+}
+.small{
+    margin-top: 10px;
+    width: 100%;
+}
+.small input{
+    margin-left: 10px;
+}
+.big{
+    margin-top: 10px;
+}
+.down{
+    margin-left: 678px;
+    
+}

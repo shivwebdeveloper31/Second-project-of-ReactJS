@@ -1,0 +1,84 @@
+
+.upper{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.left input{
+    width: 260px;
+}
+.left{
+    width: 50%;
+   
+}
+.right{
+    width: 50%;
+    margin-top: 15px;
+}
+table input{
+ width: 90px;
+}
+
+@media (max-width:756px){
+    .upper{
+        display:block;
+    }
+    
+}
+
+.payment{
+    display: flex;
+}
+.text input{
+    width: 320px;
+}
+.address input{
+    width:500px;
+}
+.check{
+    margin-top: 20px;
+    margin-left: 200px;
+    
+}
+.check input{
+    width: 40px;
+    height: 25px;
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+.hours{
+    display:flex
+}
+.attherate{
+    margin-left: 5px;
+}
+.total input{
+    width: 150px;
+}
+
+
+.box{
+    display: flex;
+}
+.leftbox{
+    width: 50%;
+}
+.rightbox{
+    width: 50%;
+    margin-top: 20px ;
+}
+.rightbox input{
+    width:90px;
+    margin-left: 10px;
+}
+.issuedby{
+    margin-left: 10px;
+}
+.submit{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
